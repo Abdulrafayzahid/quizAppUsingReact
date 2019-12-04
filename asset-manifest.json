@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quizAppUsingReact/static/css/main.33a79945.chunk.css",
+    "main.js": "/quizAppUsingReact/static/js/main.9f6cbe96.chunk.js",
+    "main.js.map": "/quizAppUsingReact/static/js/main.9f6cbe96.chunk.js.map",
+    "runtime-main.js": "/quizAppUsingReact/static/js/runtime-main.e62d4e04.js",
+    "runtime-main.js.map": "/quizAppUsingReact/static/js/runtime-main.e62d4e04.js.map",
+    "static/js/2.78acdee7.chunk.js": "/quizAppUsingReact/static/js/2.78acdee7.chunk.js",
+    "static/js/2.78acdee7.chunk.js.map": "/quizAppUsingReact/static/js/2.78acdee7.chunk.js.map",
+    "index.html": "/quizAppUsingReact/index.html",
+    "precache-manifest.e22709b47a707e07320a4b6540f3561c.js": "/quizAppUsingReact/precache-manifest.e22709b47a707e07320a4b6540f3561c.js",
+    "service-worker.js": "/quizAppUsingReact/service-worker.js",
+    "static/css/main.33a79945.chunk.css.map": "/quizAppUsingReact/static/css/main.33a79945.chunk.css.map"
+  }
+}
