@@ -2,18 +2,20 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://abdulrafayzahid.github.io/ReactWithMUI/",
   "dependencies": {
+    "@material-ui/core": "^4.8.1",
     "bootstrap": "^4.4.1",
     "gh-pages": "^2.1.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-scripts": "3.1.2",
-    "weather-icons": "git+https://github.com/erikflowers/weather-icons.git"
+    "weather-icons": "git+https://github.com/erikflowers/weather-icons.git",
+    "weather-icons-react": "^1.2.0"
   },
-  "homepage": "https://abdulrafayzahid.github.io/quizAppUsingReact/",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
